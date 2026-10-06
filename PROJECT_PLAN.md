@@ -30,9 +30,9 @@ Students and beginner developers who want to organize their projects.
 - [x] Create the local Git repository.
 - [x] Create the initial documentation files.
 - [x] Test the log and temporary-folder ignore rules.
-- [ ] Review and finish all documentation.
-- [ ] Publish the repository on GitHub.
-- [ ] Verify the files on GitHub.
+- [x] Review and finish all documentation.
+- [x] Publish the repository on GitHub.
+- [x] Verify the files on GitHub.
 
 ## Verification
 

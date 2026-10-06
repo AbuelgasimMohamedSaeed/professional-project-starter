@@ -53,5 +53,6 @@ Before publishing your own project:
 
 ## Current Status
 
-Initial documentation is being reviewed.
+The initial starter kit is complete and published on GitHub.
+Documentation and the published files have been reviewed.
 The log-file and temporary-folder ignore rules have been tested.
