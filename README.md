@@ -1,45 +1,57 @@
-# [Project Name]
+# Professional Project Starter
 
-[Write one clear sentence explaining what the project does and who it helps.]
+A starting structure for students and beginner developers
+who want to organize and document new software projects.
 
-## Problem
+## What This Repository Provides
 
-[Explain the real problem this project solves.]
+- A README explaining the project.
+- A project plan with scope and a completion checklist.
+- A decision log template.
+- Contribution guidelines.
+- A changelog for recording notable changes.
+- Git ignore rules for common unnecessary and private files.
 
-## Intended Users
+## Files
 
-[Describe the people or organizations that would use this project.]
+| File | Purpose |
+| --- | --- |
+| README.md | Introduces the project and explains its use |
+| PROJECT_PLAN.md | Defines the scope, tasks, and verification |
+| docs/DECISIONS.md | Records important decisions and their reasons |
+| CONTRIBUTING.md | Explains how to contribute changes |
+| CHANGELOG.md | Records notable project changes |
+| .gitignore | Defines files Git should ignore |
 
-## Main Features
+## Requirements
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- Git for version control.
+- A text editor, such as Visual Studio Code.
 
-## Installation
+## How to Use This Starter
 
-[Explain how to install or prepare the project.]
+1. Create a folder for your new project.
+2. Copy the listed files and the docs folder into it.
+3. Replace this README with information about your new project.
+4. Adapt the project plan and other documents.
+5. Review the ignore rules for your project's needs.
+6. Initialize a new Git repository and commit your files.
 
-## Usage
+Copy only the project files and docs folder.
+Do not copy the hidden .git folder: it contains this project's Git history.
 
-[Explain how to run and use the project.]
+## Verification
 
-## Testing
+This is a documentation starter, so there is no application to run.
 
-[Explain how to test that the project works correctly.]
+Before publishing your own project:
 
-## Project Status
+- Review the documents for accuracy.
+- Replace template placeholders with relevant information.
+- Test the ignore rules.
+- Review the Git status and commit history.
 
-Planning
+## Current Status
 
-## Roadmap
-
-- [ ] Plan the project
-- [ ] Build the first working version
-- [ ] Test the main features
-- [ ] Improve the documentation
-- [ ] Publish the first release
-
-## License
-
-[Add the chosen license here.]
+Initial documentation is being reviewed.
+The log-file and temporary-folder ignore rules have been tested.
